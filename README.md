@@ -38,3 +38,5 @@ Some examples are-
  planting Roses
  how can Make a Living on a Small Farm
 NOTE: Spelling mistakes and grammatical errors will be handled automatically.
+
+Check result (JSON structure)- http://nikunj.freakengineers.com/agro-api/index.php?query=how_to_plant_wheat&lcount=2,5
