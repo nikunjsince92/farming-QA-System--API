@@ -1,0 +1,4 @@
+[10-May-2015 13:12:30 America/New_York] PHP Warning:  file_get_contents(https://api.datamarket.azure.com/Data.ashx/Bing/MicrosoftTranslator/v1/GetLanguagesForTranslation?$top=100&amp;$format=json) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.1 401 The authorization type you provided is not supported.  Only Basic and OAuth are supported
+ in /home/freakeng/public_html/mtp/nik/translate/class/MicrosoftTranslator.class.php on line 158
+[10-May-2015 13:27:54 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/freakeng/public_html/mtp/nik/translate/index.php on line 12
+[10-May-2015 13:28:23 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/freakeng/public_html/mtp/nik/translate/index.php on line 13

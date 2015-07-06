@@ -1,0 +1,47 @@
+[06-May-2015 15:18:48 America/New_York] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home/freakeng/public_html/mtp/nik/simple_html_dom.php on line 75
+[06-May-2015 15:18:48 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/freakeng/public_html/mtp/nik/index.php on line 128
+[06-May-2015 15:19:12 America/New_York] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home/freakeng/public_html/mtp/nik/simple_html_dom.php on line 75
+[06-May-2015 15:19:12 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/freakeng/public_html/mtp/nik/index.php on line 128
+[06-May-2015 15:19:46 America/New_York] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home/freakeng/public_html/mtp/nik/simple_html_dom.php on line 75
+[06-May-2015 15:19:46 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/freakeng/public_html/mtp/nik/index.php on line 128
+[08-May-2015 16:43:42 America/New_York] PHP Warning:  Cannot use a scalar value as an array in /home/freakeng/public_html/mtp/nik/google.php on line 41
+[08-May-2015 16:44:42 America/New_York] PHP Warning:  Cannot use a scalar value as an array in /home/freakeng/public_html/mtp/nik/google.php on line 41
+[08-May-2015 16:54:40 America/New_York] PHP Fatal error:  Cannot use object of type stdClass as array in /home/freakeng/public_html/mtp/nik/google.php on line 42
+[10-May-2015 03:19:28 America/New_York] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home/freakeng/public_html/mtp/nik/simple_html_dom.php on line 75
+[10-May-2015 03:19:28 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/freakeng/public_html/mtp/nik/index.php on line 129
+[10-May-2015 03:23:23 America/New_York] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home/freakeng/public_html/mtp/nik/simple_html_dom.php on line 75
+[10-May-2015 03:23:23 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/freakeng/public_html/mtp/nik/index.php on line 129
+[10-May-2015 07:46:41 America/New_York] PHP Parse error:  syntax error, unexpected ':' in /home/freakeng/public_html/mtp/nik/index.php on line 48
+[10-May-2015 08:33:34 America/New_York] PHP Fatal error:  Cannot redeclare class Summarizer in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 2
+[10-May-2015 08:33:51 America/New_York] PHP Fatal error:  Cannot redeclare class Summarizer in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 2
+[10-May-2015 08:34:06 America/New_York] PHP Fatal error:  Cannot redeclare class Summarizer in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 2
+[10-May-2015 08:34:41 America/New_York] PHP Fatal error:  Cannot redeclare class Summarizer in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 2
+[10-May-2015 08:35:42 America/New_York] PHP Fatal error:  Cannot redeclare class Summarizer in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 2
+[10-May-2015 08:36:32 America/New_York] PHP Fatal error:  Cannot redeclare class Summarizer in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 2
+[10-May-2015 08:37:01 America/New_York] PHP Fatal error:  Cannot redeclare class Summarizer in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 2
+[10-May-2015 12:00:15 America/New_York] PHP Warning:  Missing argument 2 for Summarizer::get_summary(), called in /home/freakeng/public_html/mtp/nik/index.php on line 172 and defined in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 91
+[10-May-2015 12:00:59 America/New_York] PHP Warning:  Missing argument 2 for Summarizer::get_summary(), called in /home/freakeng/public_html/mtp/nik/index.php on line 172 and defined in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 91
+[10-May-2015 12:01:37 America/New_York] PHP Warning:  Missing argument 2 for Summarizer::get_summary(), called in /home/freakeng/public_html/mtp/nik/index.php on line 172 and defined in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 91
+[10-May-2015 12:02:32 America/New_York] PHP Warning:  Missing argument 2 for Summarizer::get_summary(), called in /home/freakeng/public_html/mtp/nik/index.php on line 172 and defined in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 91
+[10-May-2015 12:02:36 America/New_York] PHP Warning:  Missing argument 2 for Summarizer::get_summary(), called in /home/freakeng/public_html/mtp/nik/index.php on line 172 and defined in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 91
+[10-May-2015 12:02:40 America/New_York] PHP Warning:  Missing argument 2 for Summarizer::get_summary(), called in /home/freakeng/public_html/mtp/nik/index.php on line 172 and defined in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 91
+[10-May-2015 12:02:43 America/New_York] PHP Warning:  Missing argument 2 for Summarizer::get_summary(), called in /home/freakeng/public_html/mtp/nik/index.php on line 172 and defined in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 91
+[10-May-2015 13:25:42 America/New_York] PHP Fatal error:  Call to a member function translate() on a non-object in /home/freakeng/public_html/mtp/nik/index.php on line 50
+[10-May-2015 13:26:06 America/New_York] PHP Fatal error:  Call to a member function translate() on a non-object in /home/freakeng/public_html/mtp/nik/index.php on line 50
+[10-May-2015 13:39:03 America/New_York] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home/freakeng/public_html/mtp/nik/simple_html_dom.php on line 75
+[10-May-2015 13:39:03 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/freakeng/public_html/mtp/nik/index.php on line 130
+[10-May-2015 13:39:27 America/New_York] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home/freakeng/public_html/mtp/nik/simple_html_dom.php on line 75
+[10-May-2015 13:39:27 America/New_York] PHP Fatal error:  Call to a member function find() on a non-object in /home/freakeng/public_html/mtp/nik/index.php on line 130
+[10-May-2015 16:30:21 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 7
+[10-May-2015 16:30:23 America/New_York] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 7
+[11-May-2015 07:30:24 America/New_York] PHP Warning:  Missing argument 2 for Summarizer::get_summary(), called in /home/freakeng/public_html/mtp/nik/index.php on line 170 and defined in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 103
+[11-May-2015 07:40:07 America/New_York] PHP Warning:  log() expects parameter 1 to be double, string given in /home/freakeng/public_html/mtp/nik/index.php on line 127
+[11-May-2015 07:43:16 America/New_York] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ')' in /home/freakeng/public_html/mtp/nik/index.php on line 127
+[11-May-2015 07:43:37 America/New_York] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ')' in /home/freakeng/public_html/mtp/nik/index.php on line 127
+[11-May-2015 10:03:42 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 135
+[11-May-2015 13:20:27 America/New_York] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 137
+[11-May-2015 13:21:32 America/New_York] PHP Parse error:  syntax error, unexpected T_DOUBLE_ARROW in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 137
+[11-May-2015 14:00:52 America/New_York] PHP Parse error:  syntax error, unexpected T_VAR, expecting ';' in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 141
+[11-May-2015 14:12:00 America/New_York] PHP Fatal error:  Call to undefined function split_content_to_sentences() in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 136
+[11-May-2015 14:16:31 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 141
+[11-May-2015 14:18:35 America/New_York] PHP Parse error:  syntax error, unexpected '[' in /home/freakeng/public_html/mtp/nik/summarizer.class.php on line 143
