@@ -1,7 +1,10 @@
 # farming-QA-System--API-
 This API is developed to answer the farming related queries. Developed in PHP. Output in JSON.
 
-The format of our API is http://freakengineers.com/mtp/niks/index.php (base URL). 
+Demo (Result in JSON)- http://nikunj.freakengineers.com/agro-api/index.php?query=how_to_plant_wheat&lcount=2,5
+
+
+The format of this API is http://freakengineers.com/mtp/niks/index.php (base URL). 
 The response is encoded in JSON.
 Here are the possible parameters placed in the request URL.
 $query=N //Mandatory, N (string) represents the query from the user.
@@ -38,5 +41,3 @@ Some examples are-
  planting Roses
  how can Make a Living on a Small Farm
 NOTE: Spelling mistakes and grammatical errors will be handled automatically.
-
-Check result (JSON structure)- http://nikunj.freakengineers.com/agro-api/index.php?query=how_to_plant_wheat&lcount=2,5
